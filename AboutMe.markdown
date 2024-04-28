@@ -4,7 +4,7 @@ title: About Me
 permalink: /AboutMe/
 ---
 
-![headshot image](./Images/Headshot.png =250x)
+<img src="./Images/Headshot.png" alt="drawing" width="200"/>
 
 # Who am I?
 Hi, I'm Brian! <b>I am a geoscientist specializing in quantitative geomorphology, geographical information systems (GIS), and environmental data analysis.</b> Most recently, I graduated with my Ph.D. in Earth Science at the University of California, Santa Barbara (UCSB), where I used geochronological and remotely sensed datasets to address several hypotheses regarding the interactions between tectonics and erosion in the northwestern Himalayas. I also hold a Master's degree (M.S. Geological Sciences) from the University of Oregon, and a Bachelor's degree (B.S. Geology) from Caltech.
