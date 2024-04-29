@@ -35,7 +35,6 @@ plugins:
   
 # Header
 header_pages:
-    - AboutMe.markdown
     - Tab1_Research.markdown
     - Tab2_EnvironmentalProjects.markdown
     - Tab3_PersonalProjects.markdown
