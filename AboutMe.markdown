@@ -19,4 +19,4 @@ My goal in creating this website is to highlight some of my academic and profess
 This site was last updated on April 28, 2024.
 
 # Curriculum Vitae
-Here's a [link to my current CV](https://drive.google.com/file/d/19kLzNwJl_LxE4EIZ-JMNxgZGiB19i7XO/view?usp=drive_link) (Updated 4/28/24).
+Here's a [link to my current CV](https://drive.google.com/file/d/12hiKKM47adqKtgQ6-fICWA6kbE0W7rL4/view?usp=sharing) (Updated 4/28/24).
