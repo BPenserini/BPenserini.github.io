@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: About Me
-permalink: /AboutMe/
 ---
 
 ![headshot image](./Images/Headshot_3_10.png)
