@@ -4,8 +4,19 @@ title: Research
 permalink: /Research/
 ---
 
-# Capture of the Zhada Basin by the Sutlej River, Northwest Himalayas
+For my Master's and PhD research, I used geospatial data to address several open questions in the field of tectonic geomorphology. Simply put, tectonic geomorphology is the study how tectonic forces (<i>think earthquakes</i>) interact with processes that erode earth's surface (<i>think rivers</i>) to generate landscapes (<i>think mountain ranges</i>) over thousands to millions of years. All figures shown here were created using QGIS 3, Matlab, and Adobe Illustrator.
 
-Below is a figure showing the distribution of identified knickpoints (i.e., slope breaks along a channel) within the Zhada Basin. Most knickpoints fall into one of three elevation ranges, with knickpoints between 4350-4550m believed to result from rapid, ongoing channel incision in response to capture.
+# Was the Zhada Basin captured by the Sutlej River?
+
+Today, the Sutlej River is one of the largest rivers that flows across the Himalayas. The river originates in southern China before flowing through the Zhada Basin, which is a high-elevation sedimentary basin believed to once contain a vast lake. One hypothesis for this transition from a lake to a through-flowing river in the Zhada Basin is that the Sutlej River "captured" the basin within the past million years. If this is the case, then it is likely that the Sutlej River incised across the Himalayan range crest, breaching the existing topographic barrier that helped form the lake. 
+
+If we look at a digital elevation model (DEM) of the Zhada Basin, we can begin to address this hypothesis. Below is a figure showing the spatial distribution of identified knickpoints, or slope breaks along a river channel, within the Zhada Basin (<i>A</i>). Most knickpoints are found within one of three elevation ranges, with an abundance of knickpoints between 4350-4550m (<i>B</i>). It turns out that one prediction of capture is that knickpoints, representing the front of a propagating wave of increased river erosion, are generated upstream from where capture occurred and found at similar elevations. While the knickpoints between 4350-4550m may have resulted from rapid, ongoing river erosion in response to capture, we need to check whether the knickpoint X,Y locations match what would be expected if they were capture-generated.
 
 ![Map of knickpoints, generated in QGIS](./Images/Figure_3.png)
+
+To test the hypothesis, I simulated the expected dynamics of capture-generated knickpoints within the Zhada Basin.
+
+![Knickpoint model results, generated using QGIS and Matlab](./Images/ModelExample_230420a.png)
+
+
+If you'd like to learn more, please check out the [full manuscript](https://onlinelibrary.wiley.com/doi/10.1002/esp.5705) published in <i>Earth Surface Processes and Landforms</i>.
