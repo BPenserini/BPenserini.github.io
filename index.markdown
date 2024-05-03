@@ -17,7 +17,7 @@ As a professional, I take pride in my ability to work with technical and non-tec
 # This Website
 My goal in creating this website is to highlight some of my academic and professional contributions, as well as some of my personal projects. I intend to make occasional updates as current projects develop and new ones are started. 
 
-This site was last updated on April 29, 2024.
+This site was last updated on May 2, 2024.
 
 # Curriculum Vitae
 Here's a [link to my current CV](https://drive.google.com/file/d/12hiKKM47adqKtgQ6-fICWA6kbE0W7rL4/view?usp=sharing) (Updated 4/28/24).

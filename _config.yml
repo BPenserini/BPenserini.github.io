@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  BPenserini
-linkedin_username: bpenserini
+linkedin_username: brian-penserini
 
 
 # Build settings
@@ -36,7 +36,7 @@ plugins:
 # Header
 header_pages:
     - Tab1_Research.markdown
-    - Tab2_EnvironmentalProjects.markdown
+    - Tab2_ProfessionalProjects.markdown
     - Tab3_PersonalProjects.markdown
 
 # Exclude from processing.
