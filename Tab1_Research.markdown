@@ -26,8 +26,12 @@ To test this hypothesis, I wrote several Matlab scripts [(GitHub Link)](https://
 
 If you'd like to learn more about this project, please check out the [full manuscript](https://onlinelibrary.wiley.com/doi/10.1002/esp.5705) published in <i>Earth Surface Processes and Landforms</i>. In the manuscript, we go into greater detail regarding our methodology and additional geological inferences that allow us to better constrain the magnitude and timing of this event.
 
+<i>Penserini, B.D., Morell, K.D., Codilean, A.T., Fülöp, R., Wilcken, K.M., Yanites, B.J., Kumar, A., Fan, S., Mearce, T., 2023. Magnitude and timing of transient incision resulting from large‐scale drainage capture, Sutlej River, Northwest Himalaya. Earth Surf Processes Landf esp.5705. https://doi.org/10.1002/esp.5705</i>
+
+
 # Is fault slip near the Himalayan rangecrest connected to capture of the Zhada Basin?
 
+<i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
 
 # <i> Under Construction... </i>
 
