@@ -8,8 +8,7 @@ For my Master's and PhD research, I used geospatial data to address several open
 
 Below are several questions that I have addressed in my research. All figures shown here were created using QGIS 3, Matlab, and Adobe Illustrator.
 
-# Was the Zhada Basin captured by the Sutlej River?
-<i>Penserini, B.D., Morell, K.D., Codilean, A.T., Fülöp, R., Wilcken, K.M., Yanites, B.J., Kumar, A., Fan, S., Mearce, T., 2023. Magnitude and timing of transient incision resulting from large‐scale drainage capture, Sutlej River, Northwest Himalaya. Earth Surf Processes Landf esp.5705. https://doi.org/10.1002/esp.5705</i>
+# <u>Was the Zhada Basin captured by the Sutlej River?</u>
 
 ![Overview Map of Large Capture Events.](./Images/HimalayaCaptureAnalogs_240116b.png) 
 
@@ -30,12 +29,12 @@ If you'd like to learn more about this project, please check out the [full manus
 <i>Penserini, B.D., Morell, K.D., Codilean, A.T., Fülöp, R., Wilcken, K.M., Yanites, B.J., Kumar, A., Fan, S., Mearce, T., 2023. Magnitude and timing of transient incision resulting from large‐scale drainage capture, Sutlej River, Northwest Himalaya. Earth Surf Processes Landf esp.5705. https://doi.org/10.1002/esp.5705</i>
 
 
-# Is fault slip near the Himalayan rangecrest connected to capture of the Zhada Basin?
+# <u>Is fault slip near the Himalayan rangecrest connected to capture of the Zhada Basin?</u>
 <i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
 
 # <i> Under Construction... </i>
 
-# Have spatial patterns in erosion changed over time in the Northwest Himalayas?
+# <u>Have spatial patterns in erosion changed over time in the Northwest Himalayas?</u> s
 <i>Penserini, Brian D., Kristin D. Morell, Vincent Godard, et al. “Modern Exhumation Patterns of the Northwest Himalayas Resolved using 10Be-derived Denudation Rates and Topographic Analyses.” (in prep).</i>
 
 # <i> Under Construction... </i>
