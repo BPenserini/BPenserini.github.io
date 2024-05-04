@@ -4,15 +4,21 @@ title: Professional Projects
 permalink: /ProfessionalProjects/
 ---
 
-# Landslide Volume and Mobility Analysis (U.S. Geological Survey)
+# <u>Landslide Volume and Mobility Analysis (U.S. Geological Survey)</u>
 
 As a Pathways Intern for the U.S. Geological Survey, I assembled and analyzed a dataset of landslide characteristics to help improve assessments of long-term risk for wildfire burn areas. I developed a new workflow using density-based clustering (DBSCAN) in ArcGIS Pro to identify landslide source areas, which facilitated exploratory analyses of the relationships between landslide volume and mobility. I conducted exploratory analyses using statistical Python packages (NumPy, pandas, matplotlib, seablorn, scikit-learn, statsmodels, and SciPy) and assembled them in several Jupyter Notebooks to produce clear, well-documented, and resusable templates. 
 
 ![Example of FIRIS Imagery and DEM of Difference used to identify areas of erosion.](./Images/MendenhallFigure3.png)
 
 ![Example of slope-area plot with the locations of landslide outlets.](./Images/LandslideOutletSlopeAreaExample.png)
+The above plot shows the relationship between the topographic gradient, or slope, and the upstream drainage area where mapped landslides terminate (what I will call the "Landslide Outlet"). Since slope-area data is usually noisy, it is common practice to analyze binned average values, which are shown in brown. Grey points correspond to all Landslide Outlets within our dataset. We can see that most landslides terminate at drainage areas less than ~100,000 m<sup>2</sup>.
+ In the following plot, I've added the binned slope-area values for landslide source areas (green) and portions of the landcape that are occupied by channels that are formed by debris flow erosion or river incision (blue). It's common to define the transition from channels dominated by debris flow erosion to fluvial channels as the upper boundary of the "roll-over" in the binned slope-area curve, which is about 25,000 m<sup>2</sup> in our dataset. What we notice is that landslide source areas occur at about the same topographic slope, no matter where it is in the landscape (i.e., across a wide range of drainage areas), and the binned slope-area values for landslide outlets only overlap with the binned slope-area values for channels at drainage areas >1 km<sup>2</sup>.
  
 ![Example of slope-area signatures of landslide source areas, landslide outlets, and fluvial channels.](./Images/LandslideFluvialSlopeAreaExample.png) 
+
+This seems to suggest that very few landslides actually flow into fluvial channels, where the landslide material can be more easily transported by surface runoff, and most landslides just redistribute their material within the hillslopes, which we define as portions of the landscape where drainage area is \<25,000 m<sup>2</sup>. We can see this more obviously in the following bar chart, which shows the number of landslides that deposited in fluvial channels and the number of landslides that remained on hillslopes.
+
+![Bar chart of landslides on hillslopes and flowing into fluvial channels.](./Images/LandslideOccurrenceGroupByRegime.png) 
 
 ![Example of long-profile with kernel density plots of landslide volume by elevation](./Images/RomeroCreekLandslideVolumeSchematic.png)
 
