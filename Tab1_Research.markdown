@@ -30,16 +30,32 @@ If you would like to learn more about this project, please check out the [full m
 
 
 # <u>Is fault slip near the Himalayan rangecrest connected to capture of the Zhada Basin?</u>
-<i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
 
-# <i> Under Construction... </i>
+## <i> Under Construction... </i>
+
+![Microscope image of apatite grain for (U-Th)/He dating.](./Images/IN19AHE1_A03A.png)
+
+![Previously published thermochronmetric dates.](./Images/SutlejThermochronPublished_wGeol_240119a.png)
+
+![Erosion rate sample locations with modeled uplift fields for incision modeling.](./Images/Be10Map_withUpliftProfile_240120a.png)
+
+![Summary of different proposed mechanisms for Sutlej capture.](./Images/CombinedExampleMechanisms_240122c.png)
+
+<i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
 
 # <u>Have spatial patterns in erosion changed over time in the Northwest Himalayas?</u>
 
+## <i> Under Construction... </i>
+
+![Example of a transect of erossion rate estimates across diffferent geochronometer systems.](./Images/ErosionTransectExample.png)
+
+![Map of predicted erosion rates with transect locations shown.](./Images/ksnQ_ErosionMap_240301a.png)
+
+![Errosion map zoomed into Rohtang Pass.](./Images/RohtangPassZoom_240222a.png)
 
 <i>Penserini, Brian D., Kristin D. Morell, Vincent Godard, et al. “Modern Exhumation Patterns of the Northwest Himalayas Resolved using 10Be-derived Denudation Rates and Topographic Analyses.” (in prep).</i>
 
-# <i> Under Construction... </i>
+
 
 
 
