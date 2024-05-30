@@ -8,16 +8,16 @@ title: About Me
 
 ![headshot image](./Images/Headshot_3_10.png)
 
-Hi, I'm Brian! <b>I am a geoscientist specializing in quantitative geomorphology, geographical information systems (GIS), and environmental data analysis.</b> Most recently, I graduated with my Ph.D. in Earth Science at the University of California, Santa Barbara (UCSB), where I used geochronological and remotely sensed datasets to address several hypotheses regarding the interactions between tectonics and erosion in the northwestern Himalayas. I also hold a Master's degree (M.S. Geological Sciences) from the University of Oregon, and a Bachelor's degree (B.S. Geology) from Caltech.
+Hi, I'm Brian! <b>I am an earth scientist specializing in quantitative geomorphology, geographical information systems (GIS), and environmental data analysis.</b> Most recently, I graduated with my Ph.D. in Earth Science at the University of California, Santa Barbara (UCSB), where I used geochronological and remotely sensed datasets to investigate the interactions between tectonics, climate, and erosion in the northwest Himalayas over the past several million years. I also hold a Master's degree (M.S. Geological Sciences) from the University of Oregon, and a Bachelor's degree (B.S. Geology) from Caltech.
 
-As a professional, I take pride in my ability to work with technical and non-technical audiences, maintain successful relationships with internal and external clients, and receive and implement constructive feedback. Between my Master's and Ph.D. programs, I worked in the environmental consulting industry for three years. During this period of my career, I was extremely fortunate to work with several great mentors who have helped me refine these soft skills and shape who I am today.
+I'm currently living in the Chicago, IL area and am <b>looking for opportunities outside of academia, primarily in the earth and environmental sciences, climate sciences, and natural hazards mitigation</b>. That said, I am open to any role, regardless of industry, that allows me to use my scientific insight, research background, and quantitative skillset using statistical programming languages and GIS to have a positive impact on our society. I take pride in my ability to maintain successful relationships with internal and external clients, receive and implement constructive feedback, and take on challenges that help me learn and grow as a professional.
 
  Outside of my work, I enjoy running, going to baseball games, and spending time with my pets.
  
 # This Website
 My goal in creating this website is to highlight some of my academic and professional contributions, as well as some of my personal projects. I intend to make occasional updates as current projects develop and new ones are started. 
 
-This site was last updated on May 2, 2024.
+This site was last updated on May 29, 2024.
 
 # Curriculum Vitae
-Here's a [link to my current CV](https://drive.google.com/file/d/12hiKKM47adqKtgQ6-fICWA6kbE0W7rL4/view?usp=sharing) (Updated 4/28/24).
+Here's a [link to my current CV](https://drive.google.com/file/d/1WAA_2j8iorpH5LVjOMU9o_fHrv5mhNdg/view?usp=sharing) (Updated 5/27/24).
