@@ -6,6 +6,8 @@ layout: page
 title: About Me
 ---
 
+{% include navigation.html %}
+
 ![headshot image](./Images/Headshot_3_10.png)
 
 Hi, I'm Brian! <b>I am an earth scientist specializing in quantitative geomorphology, geographical information systems (GIS), and environmental data analysis.</b> Most recently, I graduated with my Ph.D. in Earth Science at the University of California, Santa Barbara (UCSB), where I used geochronological and remotely sensed datasets to investigate the interactions between tectonics, climate, and erosion in the northwest Himalayas over the past several million years. I also hold a Master's degree (M.S. Geological Sciences) from the University of Oregon, and a Bachelor's degree (B.S. Geology) from Caltech.
