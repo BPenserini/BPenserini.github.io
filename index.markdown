@@ -17,7 +17,7 @@ I'm currently living in the Chicago, IL area and am <b>looking for opportunities
 # This Website
 My goal in creating this website is to highlight some of my academic and professional contributions, as well as some of my personal projects. I intend to make occasional updates as current projects develop and new ones are started. 
 
-This site was last updated on May 29, 2024.
+This site was last updated on June 4, 2024.
 
 # Curriculum Vitae
 Here's a [link to my current CV](https://drive.google.com/file/d/1WAA_2j8iorpH5LVjOMU9o_fHrv5mhNdg/view?usp=sharing) (Updated 5/27/24).
