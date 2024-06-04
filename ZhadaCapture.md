@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ZhadaCapture
+title: Was the Zhada Basin captured by the Sutlej River?
 permalink: /Research/ZhadaCapture
 ---
 
