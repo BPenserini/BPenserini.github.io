@@ -1,4 +1,8 @@
-# <u>Have spatial patterns in erosion changed over time in the Northwest Himalayas?</u>
+---
+layout: page
+title: Have spatial patterns in erosion changed over time in the Northwest Himalayas?
+permalink: /Research/ErosionPatterns
+---
 
 ## <i> Under Construction... </i>
 
