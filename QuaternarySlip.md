@@ -1,6 +1,10 @@
-# <u>Is fault slip near the Himalayan rangecrest connected to capture of the Zhada Basin?</u>
+---
+layout: page
+title: Is fault slip near the Himalayan rangecrest connected to capture of the Zhada Basin?
+permalink: /Research/QuaternarySlip
+---
 
-After inferring that the Sutlej River captured the Zhada basin, I wanted to identify possible mechanisms that could have initiated the event. At the most basic level, drainage capture is driven by an imbalance of erosion rates across a drainage divide. In the case of the Sutlej River, this imbalance appears to result from headward erosion, which is the process by which stream channels elongate as channel heads migrate in the direction opposite from stream flow. Based on geological observations near the capture point, I proposed three possible mechanisms (shown below) that could have generated the headward erosion necessary to initiate capture of the Zhada Basin.
+After inferring that the Sutlej River [captured the Zhada basin](https://BPenserini.github.io/Research/ZhadaCapture), I wanted to identify possible mechanisms that could have initiated the event. At the most basic level, drainage capture is driven by an imbalance of erosion rates across a drainage divide. In the case of the Sutlej River, this imbalance appears to result from headward erosion, which is the process by which stream channels elongate as channel heads migrate in the direction opposite from stream flow. Based on geological observations near the capture point, I proposed three possible mechanisms (shown below) that could have generated the headward erosion necessary to initiate capture of the Zhada Basin.
 
 | ![Summary of different proposed mechanisms for Sutlej capture via headward erosion.](./Images/CombinedExampleMechanisms_240122c.png) | 
 |:--:| 
