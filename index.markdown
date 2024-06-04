@@ -7,7 +7,7 @@ title: About Me
 ---
 
 <p align="center">
-  <img width="460" height="300" src="./Images/Headshot_3_10.png">
+  <img width="" height="" src="./Images/Headshot_3_10.png">
 </p>
 
 ![headshot image](./Images/Headshot_3_10.png)
