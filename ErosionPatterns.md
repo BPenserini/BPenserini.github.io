@@ -4,9 +4,9 @@ title: Have spatial patterns in erosion changed over time in the Northwest Himal
 permalink: /Research/ErosionPatterns
 ---
 
-## <i> Under Construction... </i>
-
 The Himalayas have been the focus of many studies looking to identify relationships between topography, exposed geologic relationships of different rock units, and the underlying tectonic processes involved in mountain building. These studies have helped established a paradigm for the evolution of the Himalayas, which explains how patterns erosion are intrinsically linked to the evolution of faults and geologic structures underlying the range. However, this paradigm seems to break down in the northwest Himalayas since most of these studies have only considered observations from the central Himalayas. In the northwest Himalayas, the spatial patterns of topographic relief (<i>the difference between the highest and lowest elevations in a given area</i>), exposed rock units, and erosion rates differ substantially from those in the central Himalayas, indicating that there are differences in the active tectonic processes along the mountain range and that this paradigm should be reconsidered or appropriately contextualized.
+
+## <i> Under Construction... </i>
 
 In the northwest Himalayas, previous studies have linked the spatial patterns of low-temperature thermochronometric dates and surface morphology to an abrupt transition in the underlying crustal architecture near the Beas River at ∼77°E. East of the Beas River (Figure 4.1A), young AFT and ZHe dates (<3 Ma and ∼2-8 Ma, respectively) from rocks of the Lesser Himalayan Sequence (LHS; Figures 4.1B and 4.2) have been attributed to LHS duplex development since the late Miocene (Eugster et al., 2018; St¨ubner et al., 2018; Colleps et al., 2019). Colleps et al. (2019) interpreted the overall westward, along-strike decrease in LHS ZHe dates from Nepal to the Kullu-Rampur Window (KRW; Figure 4.1B) to reflect lateral propagation of LHS duplexing during the Miocene. However, there is no thermochronometric evidence of similar duplexing northwest of the Beas, where AFT and ZHe dates are much older (∼3-10 Ma and 10-18 Ma, respectively) and out-of-sequence thrusting along the Main Boundary Thrust (MBT) is likely responsible for peak exhumation rates along the Dhauladhar Range.
 
