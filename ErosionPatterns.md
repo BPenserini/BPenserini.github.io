@@ -6,19 +6,31 @@ permalink: /Research/ErosionPatterns
 
 ## <i> Under Construction... </i>
 
+Landscape geomorphology has been widely exploited to understand the mechanisms that generate mountainous landscapes. In particular, the Himalayan orogen has been the focus of many studies looking to identify relationships between surface topography, exposed geology, and the underlying tectonic processes involved in mountain building (e.g., Beaumont et al., 2001; Thiede et al., 2009; Godard et al., 2014).
 
+Previous studies have linked the spatial patterns of low-temperature thermochronometric dates and surface morphology in the northwest Indian Himalayas to an abrupt transition in the underlying crustal architecture near the Beas River at ∼77°E. East of the Beas River (Figure 4.1A), young AFT and ZHe dates (<3 Ma and ∼2-8 Ma, respectively) from rocks of the Lesser Himalayan Sequence (LHS; Figures 4.1B and 4.2) have been attributed to LHS duplex development since the late Miocene (Eugster et al., 2018; St¨ubner et al., 2018; Colleps et al., 2019). Colleps et al. (2019) interpreted the overall westward, along-strike decrease in LHS ZHe dates from Nepal to the Kullu-Rampur Window (KRW; Figure 4.1B) to reflect lateral propagation of LHS duplexing during the Miocene. However, there is no thermochronometric evidence of similar duplexing northwest of the Beas, where AFT and ZHe dates are much older (∼3-10 Ma and 10-18 Ma, respectively) and out-of-sequence thrusting along the Main Boundary Thrust (MBT) is likely responsible for peak exhumation rates along the Dhauladhar Range.
+
+Several mechanisms have been proposed to explain such along-strike changes (Eugster et al., 2018; Colleps et al., 2019), each with different, testable predictions for the spatiotemporal evolution of exhumation in response to LHS duplexing. These mechanisms include: along-strike differences in convergence obliquity, migration and shifts in the character of duplexing in response to detachment of the Indian slab, underthrusting of structures within the downgoing Indian basement, or asynchronous evolution of cyclical ramp formation and advection within a segmented orogenic wedge.
+
+In this work, we use cosmogenic radionuclide-derived denudation rates, in conjunction with published thermochronometric dates, to better resolve spatiotemporal patterns of Holocene exhumation and assess the recent behavior of LHS duplexing over millennial and million-year timescales. In doing so, we test whether LHS duplexing has migrated since the early Pliocene and identify proposed mechanisms that best explain the observed spatial patterns in surface topography, exposed geology, and exhumation in the northwest and central Himalayas.
 
 | ![Example of a transect of erossion rate estimates across different geochronometer systems.](./Images/ErosionTransectExample.png) | 
 |:--:| 
 | *Caption Text* |
 
+We estimated 10Be-derived, catchment-averaged denudation rates from 54 small (<300 km2) mountain catchments in Himachal Pradesh to characterize denudation patterns over millennial timescales. To increase the density of denudation rate measurements across our study area, we generated an estimated denudation rate map using a calibrated, empirical relationship between catchment-averaged 10Be-derived denudation rates and ksnQ, an enhanced channel steepness index that incorporates precipitation (Adams et al., 2020). 
+
 | ![Map of predicted erosion rates with transect locations shown.](./Images/ksnQ_ErosionMap_240301a.png) | 
 |:--:| 
 | *Caption Text* |
 
-| ![Errosion map zoomed into Rohtang Pass.](./Images/RohtangPassZoom_240222a.png) | 
+We then compared estimated denudation rates to exhumation rates inferred from published thermochronometric dates to identify potential spatiotemporal changes in erosion that may reflect tectonically-driven changes in rock uplift rates. We find that millennial denudation rates exhibit a similar spatiotemporal pattern to exhumation rates averaged over million-year timescales, suggesting that the spatial pattern of rock uplift rates, and therefore duplex growth, has remained relatively fixed since at least ∼4 Ma within our study area. 
+
+| ![Erosion map zoomed into Rohtang Pass.](./Images/RohtangPassZoom_240222a.png) | 
 |:--:| 
 | *Caption Text* |
+
+Of the mechanisms we evaluated, only asynchronous ramp formation and advection within the orogenic wedge (Mercier et al., 2017) independently explains both the sharp change in tectonic style observed in our study area and the apparent migration of LHS duplexing. In addition, our results represent a key contribution to the growing literature demonstrating the utility of ksnQ to assess regional patterns of erosion rates and emphasize the importance of accounting for spatially variable precipitation when using channel steepness as a proxy for denudation rate.
 
 <i>A manuscript with additional project details is currently in the final stages of preparation. A link to the manuscript will be added to this page once it has been peer-reviewed and accepted for publication.</i>
 
