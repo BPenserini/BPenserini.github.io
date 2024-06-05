@@ -13,3 +13,5 @@ permalink: /Research/ErosionPatterns
 ![Errosion map zoomed into Rohtang Pass.](./Images/RohtangPassZoom_240222a.png)
 
 <i>Penserini, Brian D., Kristin D. Morell, Vincent Godard, et al. “Modern Exhumation Patterns of the Northwest Himalayas Resolved using 10Be-derived Denudation Rates and Topographic Analyses.” (in prep).</i>
+
+{% include research_navigation.html %}
