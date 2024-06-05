@@ -8,13 +8,17 @@ permalink: /ProfessionalProjects/
 
 As a Pathways Intern for the U.S. Geological Survey, I assembled and analyzed a dataset of landslide characteristics to help improve assessments of long-term risk for wildfire burn areas. I developed a new workflow using density-based clustering (DBSCAN) in ArcGIS Pro to identify landslide source areas, which facilitated exploratory analyses of the relationships between landslide volume and mobility. I conducted exploratory analyses using statistical Python packages (NumPy, pandas, matplotlib, seaborn, scikit-learn, statsmodels, and SciPy) and assembled them in several Jupyter Notebooks to produce clear, well-documented, and resusable templates. All figures shown below were generated using Python.
 
-![Example of slope-area plot with the locations of landslide outlets.](./Images/LandslideOutletSlopeAreaExample.png)
+<p align="center">
+  <img width="" height="" src="./Images/LandslideOutletSlopeAreaExample.png">
+</p>
 
 The above plot shows the relationship between the topographic gradient, or slope, and the upstream drainage area where mapped landslides terminate (what I will call the "Landslide Outlet"). Since slope-area data is usually noisy, it is common practice to analyze binned average values, which are shown in brown. Grey points correspond to all Landslide Outlets within our dataset. We can see that most landslides terminate at drainage areas less than ~100,000 m<sup>2</sup>.
 
  In the following plot, I've added the binned slope-area values for landslide source areas (green) and portions of the landcape that are occupied by channels that are formed by debris flow erosion or river incision (blue). It's common to define the transition from channels dominated by debris flow erosion to fluvial channels as the upper boundary of the "roll-over" in the binned slope-area curve, which is about 25,000 m<sup>2</sup> in our dataset. What we notice is that landslide source areas occur at about the same topographic slope, no matter where it is in the landscape (i.e., across a wide range of drainage areas), and the binned slope-area values for landslide outlets only overlap with the binned slope-area values for channels at drainage areas >1 km<sup>2</sup>.
  
-![Example of slope-area signatures of landslide source areas, landslide outlets, and fluvial channels.](./Images/LandslideFluvialSlopeAreaExample.png) 
+<p align="center">
+  <img width="" height="" src="./Images/LandslideFluvialSlopeAreaExample.png">
+</p>
 
 This seems to suggest that very few landslides actually flow into fluvial channels, where the landslide material can be more easily transported by surface runoff, and most landslides just redistribute their material within the hillslopes, which we define as portions of the landscape where drainage area is \<25,000 m<sup>2</sup>. We can see this more clearly in the following bar chart, which shows the number of landslides that deposited in fluvial channels and the number of landslides that remained on hillslopes.
 
@@ -26,7 +30,9 @@ This, however, does not tell the full story. If we look at the volumes of materi
 
 On the left side of figure below, I show three kernel density plots corresponding to volume distributions by source area elevation within the Romero Creek watershed. These distributions correspond to: (1) all landslides, (2) landslides with outlets on hillslopes (\<25,000 m<sup>2</sup>), and (3) landslides with outlets in fluvial channels (>25,000 m<sup>2</sup>). On the right is an elevation profile of the Romero Creek mainstem, along with the underlying geology. In this figure, we can start to see how the landslides redistributed material within the watershed. For example the Juncal Formation, which is found at higher elevations, sourced a large amount of landslide material that ended up in fluvial channels. This suggests that the Juncal may generate larger, more mobile landslides. Additionally, landslides that occur at lower elevations are slightly more likely to remain on hillslopes, even though they predominantly terminate in fluvial channels. This may imply that landslides at lower elevations within the Matilija and Cozy Dell Formations have a greater impact on increasing the hazard of future landslides, since they have a greater propensity to accumulate material in areas that can fail in future events.
 
-![Example of long-profile with kernel density plots of landslide volume by elevation](./Images/RomeroCreekLandslideVolumeSchematic.png)
+<p align="center">
+  <img width="" height="" src="./Images/RomeroCreekLandslideVolumeSchematic.png">
+</p>
 
 <i>This work is still in progress, with a manuscript currently in preparation.</i>
 
