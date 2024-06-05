@@ -28,7 +28,7 @@ On the left side of figure below, I show three kernel density plots correspondin
 
 ![Example of long-profile with kernel density plots of landslide volume by elevation](./Images/RomeroCreekLandslideVolumeSchematic.png)
 
-This work is still in progress, with a manuscript currently in preparation.
+<i>This work is still in progress, with a manuscript currently in preparation.</i>
 
 <i>Thomas, M.A., Lindsay, D.N., Rossi, R.K., Kostelnik, J., Rengers, F.K., Kean, J.W., Schwartz, J.Y., Swanson, B., Oakley, N.S., Richardson, P., Graber, A.S., Morelan, A.E., Ritchie, A.C., Warrick, J.A., Rotche, L., Penserini, B.D., Slaughter, S.L., 2023. Exploring controls on landslide occurrence across a patchwork of burned areas in southern California (USA). Presented at the 2023 AGU Fall Meeting, San Francisco, CA.</i>
 
