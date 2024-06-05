@@ -38,6 +38,7 @@ header_pages:
     - Tab1_Research.markdown
     #- Tab2_ProfessionalProjects.markdown
     - Tab3_PersonalProjects.markdown
+    - Tab4_CV.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
