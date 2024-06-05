@@ -26,7 +26,7 @@ Using <i>QTQt</i>, a program that uses Bayesian trans-dimensional Markov chain M
 
 | ![Erosion rate sample locations with modeled uplift fields for incision modeling.](./Images/Be10Map_withUpliftProfile_240120a.png) | 
 |:--:| 
-| *(A) <b>Incision model domain along the Sutlej River</b>. Tributary catchments that were sampled for cosmogenic radionuclide-derived denudation (i.e., erosion) rates are shown and were used to approximate the rock uplift field in incision models. Note that the orientation of this map is inverted. (B) <b>Plot of different uplift fields used in model scenarios</b>. We applied two different uplift fields to model simulations to account for uncertainty in modern uplift rates revealed by previous thermochronometric dates and our denudation rates.* |
+| *(A) Incision model domain along the Sutlej River. Tributary catchments that were sampled for cosmogenic radionuclide-derived denudation (i.e., erosion) rates are shown and were used to approximate the rock uplift field in incision models. Note that the orientation of this map is inverted. (B) Plot of different uplift fields used in model scenarios. We applied two different uplift fields to model simulations to account for uncertainty in modern uplift rates revealed by previous thermochronometric dates and our denudation rates.* |
 
 <i>A manuscript with additional project details is currently in the final stages of preparation. A link to the manuscript will be added to this page once it has been peer-reviewed and accepted for publication.</i>
 
