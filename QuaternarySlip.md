@@ -4,7 +4,7 @@ title: Is fault slip near the Himalayan rangecrest connected to capture of the Z
 permalink: /Research/QuaternarySlip
 ---
 
-After inferring that the Sutlej River [captured the Zhada basin](https://BPenserini.github.io/Research/ZhadaCapture), I wanted to identify possible mechanisms that could have initiated the event. At the most basic level, drainage capture is driven by an imbalance of erosion rates across a drainage divide. In the case of the Sutlej River, this imbalance appears to result from headward erosion, which is the process by which stream channels elongate as channel heads migrate in the direction opposite from stream flow. Based on geological observations near the capture point, I proposed three possible mechanisms (shown below) that could have generated the headward erosion necessary to initiate capture of the Zhada Basin.
+At the simplest level, drainage capture is driven by an imbalance of erosion rates across a drainage divide. In the case of the [Zhada Basin getting captured by the Sutlej River](https://BPenserini.github.io/Research/ZhadaCapture), this imbalance appears to result from headward erosion, which is the process by which stream channels elongate as channel heads migrate in the direction opposite from stream flow. However, we don't know what exact mechanism, or mechanisms, caused the headward erosion needed for this event to occur. Based on geological observations near the capture point, I proposed three possible mechanisms (outlined in the figure below) that could have generated the headward erosion necessary to initiate capture of the Zhada Basin.
 
 | ![Summary of different proposed mechanisms for Sutlej capture via headward erosion.](./Images/CombinedExampleMechanisms_240122c.png) | 
 |:--:| 
@@ -24,6 +24,6 @@ Using <i>QTQt</i>, a program that uses Bayesian trans-dimensional Markov chain M
 
 ## <i> Under Construction... </i>
 
-Additional details will be provided in a manuscript that is currently in the final stages of preparation. A link to the manuscript will be provided once it has been peer-reviewed and accepted for publication.
+<i>A manuscript with additional project details is currently in the final stages of preparation. A link to the manuscript will be added to this page once it has been peer-reviewed and accepted for publication.</i>
 
 <i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
