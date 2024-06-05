@@ -27,3 +27,5 @@ To test this hypothesis, I wrote several Matlab scripts [(GitHub Link)](https://
 If you would like to learn more about this project, including how we were able to better constrain the timing of this event and the associated eroded volumes, please check out the [full manuscript](https://onlinelibrary.wiley.com/doi/10.1002/esp.5705) published in <i>Earth Surface Processes and Landforms</i>.
 
 <i>Penserini, B.D., Morell, K.D., Codilean, A.T., Fülöp, R., Wilcken, K.M., Yanites, B.J., Kumar, A., Fan, S., Mearce, T., 2023. Magnitude and timing of transient incision resulting from large‐scale drainage capture, Sutlej River, Northwest Himalaya. Earth Surf Processes Landf esp.5705. https://doi.org/10.1002/esp.5705</i>
+
+{% include research_navigation.html %}
