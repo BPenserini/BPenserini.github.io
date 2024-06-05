@@ -23,5 +23,3 @@ This site was last updated on June 4, 2024.
 
 # Curriculum Vitae
 Here's a [link to my current CV](https://drive.google.com/file/d/1WAA_2j8iorpH5LVjOMU9o_fHrv5mhNdg/view?usp=sharing) (Updated 5/27/24).
-
-<embed src="[CV](https://drive.google.com/file/d/1WAA_2j8iorpH5LVjOMU9o_fHrv5mhNdg/view?usp=sharing)">
