@@ -31,3 +31,5 @@ Using <i>QTQt</i>, a program that uses Bayesian trans-dimensional Markov chain M
 <i>A manuscript with additional project details is currently in the final stages of preparation. A link to the manuscript will be added to this page once it has been peer-reviewed and accepted for publication.</i>
 
 <i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
+
+{% include research_navigation.html %}
