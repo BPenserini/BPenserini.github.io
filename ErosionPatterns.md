@@ -14,23 +14,23 @@ The Himalayas have been the focus of many studies looking to identify relationsh
 
 In the northwest Himalayas, previous studies have linked the spatial patterns of low-temperature thermochronometric dates and surface morphology to an abrupt transition in the underlying crustal architecture near the Beas River at ∼77°E. East of the Beas River (Figure 4.1A), young AFT and ZHe dates (<3 Ma and ∼2-8 Ma, respectively) from rocks of the Lesser Himalayan Sequence (LHS; Figures 4.1B and 4.2) have been attributed to LHS duplex development since the late Miocene (Eugster et al., 2018; St¨ubner et al., 2018; Colleps et al., 2019). Colleps et al. (2019) interpreted the overall westward, along-strike decrease in LHS ZHe dates from Nepal to the Kullu-Rampur Window (KRW; Figure 4.1B) to reflect lateral propagation of LHS duplexing during the Miocene. However, there is no thermochronometric evidence of similar duplexing northwest of the Beas, where AFT and ZHe dates are much older (∼3-10 Ma and 10-18 Ma, respectively) and out-of-sequence thrusting along the Main Boundary Thrust (MBT) is likely responsible for peak exhumation rates along the Dhauladhar Range.
 
+| ![Relationship between erosion rate and ksnQ used to generate erosion rate map.](./Images/ksnQ_E_Plot.png) | 
+|:--:| 
+| *<sup>10</sup>Be-derived denudation rates plotted against k<sub>snQ</sub>, with 2&#963; uncertainty. The relationship is reasonably well described as a power law, which we use to generate the erosion rate map below.* |
+
 Several mechanisms have been proposed to explain such along-strike changes (Eugster et al., 2018; Colleps et al., 2019), each with different, testable predictions for the spatiotemporal evolution of exhumation in response to LHS duplexing. These mechanisms include: along-strike differences in convergence obliquity, migration and shifts in the character of duplexing in response to detachment of the Indian slab, underthrusting of structures within the downgoing Indian basement, or asynchronous evolution of cyclical ramp formation and advection within a segmented orogenic wedge.
 
 In this work, we use cosmogenic radionuclide-derived denudation rates, in conjunction with published thermochronometric dates, to better resolve spatiotemporal patterns of Holocene exhumation and assess the recent behavior of LHS duplexing over millennial and million-year timescales. In doing so, we test whether LHS duplexing has migrated since the early Pliocene and identify proposed mechanisms that best explain the observed spatial patterns in surface topography, exposed geology, and exhumation in the northwest and central Himalayas.
 
-| ![Example of a transect of erossion rate estimates across different geochronometer systems.](./Images/ErosionTransectExample.png) | 
+| ![Map of predicted erosion rates with transect locations shown.](./Images/ksnQ_ErosionMap_240301a.png) | 
 |:--:| 
 | *Caption Text* |
 
 We estimated 10Be-derived, catchment-averaged denudation rates from 54 small (<300 km2) mountain catchments in Himachal Pradesh to characterize denudation patterns over millennial timescales. To increase the density of denudation rate measurements across our study area, we generated an estimated denudation rate map using a calibrated, empirical relationship between catchment-averaged 10Be-derived denudation rates and ksnQ, an enhanced channel steepness index that incorporates precipitation (Adams et al., 2020). 
 
-| ![Map of predicted erosion rates with transect locations shown.]() | 
+| ![Example of a transect of erossion rate estimates across different geochronometer systems.](./Images/ErosionTransectExample.png) | 
 |:--:| 
-| *Caption Text* |
-
-| ![Map of predicted erosion rates with transect locations shown.](./Images/ksnQ_ErosionMap_240301a.png) | 
-|:--:| 
-| *Caption Text* |
+| *Example swath transect displaying how thermochronometric dates, <sup>10</sup>Be denudation rates, inferred erosion rates, and topography vary across the northwest Himalayas. Transect location is labeled "Dh" in map above.* |
 
 We then compared estimated denudation rates to exhumation rates inferred from published thermochronometric dates to identify potential spatiotemporal changes in erosion that may reflect tectonically-driven changes in rock uplift rates. We find that millennial denudation rates exhibit a similar spatiotemporal pattern to exhumation rates averaged over million-year timescales, suggesting that the spatial pattern of rock uplift rates, and therefore duplex growth, has remained relatively fixed since at least ∼4 Ma within our study area. 
 
