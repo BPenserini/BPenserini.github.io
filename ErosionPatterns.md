@@ -26,7 +26,7 @@ Erosion rates mapped using the relationship between millennial denudation rates 
 
 | ![Erosion map zoomed into Rohtang Pass.](./Images/RohtangPassZoom_240222a.png) | 
 |:--:| 
-| *(A) Map of estimated erosion rates and exhumation rates from low-temperature thermochronometry for the transitional region between the northwest and central Himalaya. Estimated erosion rates decrease sharply from >1 mm/yr south of the Rohtang Pass to <0.4 mm/yr to the north, consistent with the pattern of observed thermochronometric dates. (B) Barbed drainages (blue) in tributaries to the Beas River are consistent with westward divide migration, which I suspect resulted from breaching of the Lesser Himalayan Sequence to the east.* |
+| *(A) Map of estimated erosion rates and exhumation rates from low-temperature thermochronometry for the transitional region between the northwest and central Himalaya. Estimated erosion rates decrease sharply from >1 mm/yr south of the Rohtang Pass to <0.4 mm/yr to the north, consistent with the pattern of observed thermochronometric dates. (B) Barbed drainages (blue) in tributaries to the Beas River are consistent with westward divide migration, which I suspect resulted from breaching of the Lesser Himalayan Sequence to the southeast.* |
 
 <i>A manuscript with additional project details is currently in the final stages of preparation. A link to the manuscript will be added to this page once it has been peer-reviewed and accepted for publication.</i>
 
