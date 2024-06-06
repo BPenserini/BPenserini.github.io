@@ -30,6 +30,6 @@ Erosion rates mapped using the relationship between millennial denudation rates 
 
 <i>A manuscript with additional project details is currently in the final stages of preparation. A link to the manuscript will be added to this page once it has been peer-reviewed and accepted for publication.</i>
 
-<i>Penserini, Brian D., Kristin D. Morell, Vincent Godard, et al. “Modern Exhumation Patterns of the Northwest Himalayas Resolved using 10Be-derived Denudation Rates and Topographic Analyses.” (in prep).</i>
+<i>Penserini, Brian D., Kristin D. Morell, Vincent Godard, et al. “Modern Exhumation Patterns of the Northwest Himalayas Resolved using <sup>10</sup>Be-derived Denudation Rates and Topographic Analyses.” (in prep).</i>
 
 {% include research_navigation.html %}
