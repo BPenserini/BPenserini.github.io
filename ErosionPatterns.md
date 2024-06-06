@@ -4,7 +4,7 @@ title: Have spatial patterns in erosion changed over time in the Northwest Himal
 permalink: /Research/ErosionPatterns
 ---
 
-The Himalayas have been the focus of many studies looking to identify relationships between topography, exposed geologic relationships of different rock units, and the underlying tectonic processes involved in mountain building. These studies have helped established a paradigm for the evolution of the Himalayas, which explains how patterns erosion are intrinsically linked to the evolution of faults and geologic structures underlying the range. However, this paradigm seems to break down in the northwest Himalayas since most of these studies have only considered observations from the central Himalayas. In the northwest Himalayas, the spatial patterns of topographic relief (<i>the difference between the highest and lowest elevations in a given area</i>), exposed rock units, and erosion rates differ substantially from those in the central Himalayas, indicating that there are differences in the active tectonic processes along the mountain range and that this paradigm should be reconsidered or appropriately contextualized.
+The Himalayas have been the focus of many studies looking to identify relationships between topography, exposed geologic relationships of different rock units, and the underlying tectonic processes involved in mountain building. These studies have helped established a paradigm for the evolution of the Himalayas, which explains how patterns erosion are intrinsically linked to the evolution of faults and geologic structures underlying the range. However, this paradigm seems to break down in the northwest Himalayas since most of these studies have only considered observations from the central Himalayas. In the northwest Himalayas, the spatial patterns of topographic relief (<i>the difference between the highest and lowest elevations in a given area</i>), exposed rock units, and erosion rates differ substantially from those in the central Himalayas (<i>near the brown dashed line in the figure below</i>), indicating that there are differences in the active tectonic processes along the mountain range and that this paradigm should be reconsidered or appropriately contextualized.
 
 | ![Regional maps indicating the along-strike changes in geology and geomorphology.](./Images/WHimalayaStudyArea_240221a.png) | 
 |:--:| 
@@ -23,6 +23,10 @@ In this work, we use cosmogenic radionuclide-derived denudation rates, in conjun
 | *Caption Text* |
 
 We estimated 10Be-derived, catchment-averaged denudation rates from 54 small (<300 km2) mountain catchments in Himachal Pradesh to characterize denudation patterns over millennial timescales. To increase the density of denudation rate measurements across our study area, we generated an estimated denudation rate map using a calibrated, empirical relationship between catchment-averaged 10Be-derived denudation rates and ksnQ, an enhanced channel steepness index that incorporates precipitation (Adams et al., 2020). 
+
+| ![Map of predicted erosion rates with transect locations shown.]() | 
+|:--:| 
+| *Caption Text* |
 
 | ![Map of predicted erosion rates with transect locations shown.](./Images/ksnQ_ErosionMap_240301a.png) | 
 |:--:| 
