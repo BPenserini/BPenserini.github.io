@@ -10,4 +10,6 @@ During my Ph.D. at [UC Santa Barbara](https://www.geol.ucsb.edu/), I investigate
 
 {% include research_navigation.html %}
 
-During my Master's at the [University of Oregon](https://naturalsciences.uoregon.edu/earth-sciences), I developed a new proxy for catchment-averaged erosion rates based on the signature of debris flow scour and incision. 
+During my Master's at the [University of Oregon](https://naturalsciences.uoregon.edu/earth-sciences), I developed a new proxy for catchment-averaged erosion rates based on the signature of debris flow scour and incision. I applied this new erosion model within the Oregon Coast Range, which revealed an interesting pattern reflecting the dynamics of the Cascadia Subduction Zone. Below is a link to a more detailed description of the project.
+
+{% include masters_link.html %}
