@@ -9,3 +9,5 @@ My research uses geochronology and geospatial datasets to address open questions
 During my Ph.D. at [UC Santa Barbara](https://www.geol.ucsb.edu/), I investigated the erosional history of the northwest Himalayas as a means to understand how the relationships between tectonic deformation, climate, and surface processes influence mountain building over geomorphic and geologic timescales. Below are links to several research projects I completed during my graduate studies. All map figures and plots shown on these webpages were created using QGIS 3, Matlab, and Adobe Illustrator.
 
 {% include research_navigation.html %}
+
+During my Master's at the [University of Oregon](https://naturalsciences.uoregon.edu/earth-sciences), I developed a new proxy for catchment-averaged erosion rates based on the signature of debris flow scour and incision. 
