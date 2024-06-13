@@ -39,3 +39,6 @@ What's most interesting about the pattern of long-term uplift rates revealed by 
 If you would like to learn more about this project, please check out the [full manuscript](https://drive.google.com/file/d/1SRDyyLrztreJ2XbKYnnIZn9KkRt5N350/view) published in <i>Geomorphology</i>.
 
 <i>Penserini, Brian D., Joshua J. Roering, Ashley Strieg. “A morphologic proxy for debris flow erosion with application to the earthquake deformation cycle, Cascadia Subduction Zone, USA.” Geomorphology 282, 150–161 (2017). [https://doi.org/10.1016/j.geomorph.2017.01.018](https://www.sciencedirect.com/science/article/abs/pii/S0169555X16306821?via%3Dihub)</i>
+
+{% include research_navigation.html %}
+{% include masters_link.html %}
