@@ -21,7 +21,7 @@
 title: Brian Penserini, PhD
 email: bpenserini16@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal webpage! Parts of this page are still under construction, but I intend to add examples of my PhD research, professional experiences, and passion projects as they develop over time.
+  Welcome to my personal webpage! My intention with this site is to provide an overview of my research, professional experiences, and passion projects as they develop over time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  BPenserini
