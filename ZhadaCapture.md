@@ -28,5 +28,6 @@ If you would like to learn more about this project, including how we were able t
 
 <i>Penserini, B.D., Morell, K.D., Codilean, A.T., Fülöp, R., Wilcken, K.M., Yanites, B.J., Kumar, A., Fan, S., Mearce, T., 2023. Magnitude and timing of transient incision resulting from large‐scale drainage capture, Sutlej River, Northwest Himalaya. Earth Surf Processes Landf esp.5705. https://doi.org/10.1002/esp.5705</i>
 
+## More Research Projects
 {% include research_navigation.html %}
 {% include masters_link.html %}
