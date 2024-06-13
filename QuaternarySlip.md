@@ -32,5 +32,6 @@ Using [<i>QTQt</i>](http://iearth.edu.au/codes/QTQt/), a program that uses Bayes
 
 <i>Penserini, Brian D., Kristin D. Morell, Brian J. Yanites, et al. “Quaternary Slip along the Himalayan Crest as a Novel Driver of Drainage Capture.” (in prep).</i>
 
+## More Research Projects
 {% include research_navigation.html %}
 {% include masters_link.html %}
