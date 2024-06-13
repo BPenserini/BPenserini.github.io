@@ -24,21 +24,18 @@ In this work, I wanted to see if the Stock and Dietrich relationship could be us
 |:--:| 
 | *Erosion rate decreases as a power law function (thick gray line) of a<sub>1</sub>. Error bars reflect two standard errors.* |
 
-Since erosion rate and <i>a<sub>1</sub></i> are strongly correlated (R<sup>2</sup> = 0.88), we mapped <i>a<sub>1</sub></i> for many debris-flow-dominated catchments within the Oregon Coast Range, as shown in the figure below to get an idea of how erosion rates are varying across the range. Using our relationship between erosion rate and <i>a<sub>1</sub></i>, we see that erosion rates are highest ~20 km inland from the coast and decrease westward, reflecting a westward decrease in uplift rate, as well. Since the landscape records erosion rates over relatively long timescales (> 10,000 years), we consider uplift rates estimated using <i>a<sub>1</sub></i> to be <b>long-term uplift rates</b>.
+Since erosion rate and <i>a<sub>1</sub></i> are strongly correlated (R<sup>2</sup> = 0.88), we mapped <i>a<sub>1</sub></i> for many debris-flow-dominated catchments within the Oregon Coast Range (<i>see figure below</i>) to get an idea of how erosion rates are varying across the range. Using our relationship between erosion rate and <i>a<sub>1</sub></i>, we see that erosion rates are highest ~20 km inland from the coast and decrease westward, reflecting a westward decrease in uplift rate, as well. Since the landscape records erosion rates over relatively long timescales (> 10,000 years), we consider uplift rates estimated using <i>a<sub>1</sub></i> to be <b>long-term uplift rates</b>.
 
 | ![](./Images/Masters/1-s2.0-S0169555X16306821-gr3.jpg) | 
 |:--:| 
-| ** |
+| *Study catchments are represented by polygons with coloration indicative of the best fitting a<sub>1</sub> value. Values of a<sub>1</sub> decrease inland, which reflects a trend of increasing erosion (or uplift) rate. No major faults have been identified in this area, axes of gentle folds are shown.* |
 
-What's most interesting about the pattern of long-term uplift rates revealed by our analysis, is that it displays the opposite trend of [interseismic uplift rates from leveling data](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2008JB005679) along the Oregon Coast (which we consider to be <b>short-term uplift rates</b> since they record uplift resulting from interseismic locking of the Cascadia Subduction Zone). 
+What's most interesting about the pattern of long-term uplift rates revealed by our analysis, is that it displays the opposite trend of [interseismic uplift rates from leveling data](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2008JB005679) along the Oregon Coast (which we consider to be <b>short-term uplift rates</b> since they record uplift resulting from interseismic locking of the [Cascadia Subduction Zone](https://en.wikipedia.org/wiki/Cascadia_subduction_zone)). Large megathrust earthquakes on the Cascadia Subduction Zone are assumed to be periodic, with a recurrence interval of ~300-600 years, such that elastic strain accumulated during the interseismic period (i.e., between earthquakes) is released during each earthquake, while inelastic strain accumulates over time. By assuming that <b>short-term uplift rates</b> recorded by leveling data reflects the total interseismic strain accumulation and that <b>long-term uplift rates</b> recorded by our analysis of <i>a<sub>1</sub></i> in debris-flow-dominated catchments reflect the inelastic strain rate, then we can approximate the amount of elastic strain released by a megathrust earthquake. Along the coast, this elastic strain release results in [coseismic subsidence](https://blogs.openquake.org/hazard/2019/11/19/coseismic-uplift-subsidence/), which can submerge portions of the coast, threatening coastal communities. Below is a figure summarizing the observations of short-term uplift rates, long-term uplift rates (<i>this study<i>), and estimates of coseismic subsidence for different earthquake recurrence intervals.
 
-# <i>Under Constuction...</i>
-
-
-
-| ![](./Images/Masters/1-s2.0-S0169555X16306821-gr8.jpg) | 
+| ![Plot of interseismic and long-term uplift estimates, used to estimate coseismic subsidence.](./Images/Masters/1-s2.0-S0169555X16306821-gr8.jpg) | 
 |:--:| 
-| ** |
+| *Uplift and subsidence transect. (A) Interseismic uplift rates plotted with distance from the -20 km contour. Black dots represent leveling measurements, with the gray line a stiff spline fit to the central coast data from Burgette et al. (2009).(B) (i) A subset of interseismic uplift data from (A). (ii) Long-term erosion (or uplift) rate plotted with distance from the -20 km contour. Black dots represent the raw values obtained using the erosion rate - a<sub>1</sub> function and assuming erosion balances uplift. (iii) Coseismic subsidence estimates using the trends from (A) and (B) and subduction earthquake recurrence intervals of 300 (solid) and 500 (dashed) years, respectively.* |
+
 
 
 <i>Penserini, Brian D., Joshua J. Roering, Ashley Strieg. “A morphologic proxy for debris flow erosion with application to the earthquake deformation cycle, Cascadia Subduction Zone, USA.” Geomorphology 282, 150–161 (2017). https://doi.org/10.1016/j.geomorph.2017.01.018</i>
