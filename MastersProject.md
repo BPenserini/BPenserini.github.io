@@ -12,6 +12,25 @@ This principle works well in areas where this assumption is valid, however there
 |:--:| 
 | *A typical debris-flow-dominated catchment in the Oregon Coast Range. Yellow line represents the catchment boundary and thin white lines correspond to debris flow tracks that dominate large portions of the valley network.* |
 
+One way in which geomorphologists classify portions of a landscape as being a "hillslope" or a "channel", for instance, is through the relationships between surface gradient (<i>S</i>) and contributing drainage area (<i>A</i>), typically measured using a digital elevation model (DEM) and simulating surface flow in a desktop GIS program. River channels typically display an inverse linear relationship between log(<i>S</i>) and log(<i>A</i>) for <i>A</i> > 0.1-1 km<sup>2</sup>, whereas hillslopes in steeplands typically display relatively constant slopes at <i>A</i> < 100-1000 m<sup>2</sup> (<i>see figure below</i>). Since debris flows are the dominant erosional process in the portions of the landscape between hillslopes and rivers, the signature of debris-flow scour and incision should be reflected in the relationship between <i>S</i> and <i>A</i> for <i>A</i> between 100 m<sup>2</sup> and 1 km<sup>2</sup>. [Stock and Dietrich (2003)](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2001WR001057) proposed a slope-area relationship that can capture the signatures of hillslopes and rivers, as well as the transition between the two regimes where debris-flow erosion dominates: <i>S</i> = <i>S<sub>0</sub>/(1 + a<sub>1</sub>A<sup>a2</sup></i>), where <i>S<sub>0</sub></i> is essentially the threshold <i>S</i> along hillslopes, <i>a<sub>1</sub></i> is an empirical constant that is inversely proportional to the curvature of the transition between the hillslope and river log(<i>S</i>)-log(<i>A</i>) relationships, and <i>a<sub>2</sub></i> is essentially the slope of the log(<i>S</i>)-log(<i>A</i>) relationship at large <i>A</i>, in the fluvial regime.
+
+| ![](./Images/Masters/1-s2.0-S0169555X16306821-gr2.jpg) | 
+|:--:| 
+| *Schematic plot of drainage area vs. valley slope for forested, steepland catchments. At small areas, slope is relatively invariant and set by threshold-driven debris flow initiation processes. At large drainage areas, slope varies as an inverse power law with area, reflecting fluvial-dominated erosion (i.e., river incision). Intermediate areas in this plot represent debris flow-dominated terrain wherein a curved slope-area relationship connects the hillslope and fluvial domain. The value of a<sub>1</sub> represents the curvature or sharpness of the transition and is proposed to correlate with erosion (or uplift) rate.* |
+
 # <i>Under Constuction...</i>
+
+| ![](./Images/Masters/1-s2.0-S0169555X16306821-gr3.jpg) | 
+|:--:| 
+| ** |
+
+| ![](./Images/Masters/1-s2.0-S0169555X16306821-gr6.jpg) | 
+|:--:| 
+| ** |
+
+| ![](./Images/Masters/1-s2.0-S0169555X16306821-gr8.jpg) | 
+|:--:| 
+| ** |
+
 
 <i>Penserini, Brian D., Joshua J. Roering, Ashley Strieg. “A morphologic proxy for debris flow erosion with application to the earthquake deformation cycle, Cascadia Subduction Zone, USA.” Geomorphology 282, 150–161 (2017). https://doi.org/10.1016/j.geomorph.2017.01.018</i>
