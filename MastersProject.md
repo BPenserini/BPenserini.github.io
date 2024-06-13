@@ -36,6 +36,6 @@ What's most interesting about the pattern of long-term uplift rates revealed by 
 |:--:| 
 | *Uplift and subsidence transect. (A) Interseismic uplift rates plotted with distance from the -20 km contour. Black dots represent leveling measurements, with the gray line a stiff spline fit to the central coast data from Burgette et al. (2009).(B) (i) A subset of interseismic uplift data from (A). (ii) Long-term erosion (or uplift) rate plotted with distance from the -20 km contour. Black dots represent the raw values obtained using the erosion rate - a<sub>1</sub> function and assuming erosion balances uplift. (iii) Coseismic subsidence estimates using the trends from (A) and (B) and subduction earthquake recurrence intervals of 300 (solid) and 500 (dashed) years, respectively.* |
 
+If you would like to learn more about this project, please check out the [full manuscript](https://drive.google.com/file/d/1SRDyyLrztreJ2XbKYnnIZn9KkRt5N350/view) published in <i>Geomorphology</i>.
 
-
-<i>Penserini, Brian D., Joshua J. Roering, Ashley Strieg. “A morphologic proxy for debris flow erosion with application to the earthquake deformation cycle, Cascadia Subduction Zone, USA.” Geomorphology 282, 150–161 (2017). https://doi.org/10.1016/j.geomorph.2017.01.018</i>
+<i>Penserini, Brian D., Joshua J. Roering, Ashley Strieg. “A morphologic proxy for debris flow erosion with application to the earthquake deformation cycle, Cascadia Subduction Zone, USA.” Geomorphology 282, 150–161 (2017). [https://doi.org/10.1016/j.geomorph.2017.01.018](https://www.sciencedirect.com/science/article/abs/pii/S0169555X16306821?via%3Dihub)</i>
